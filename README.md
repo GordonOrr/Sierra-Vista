@@ -30,7 +30,7 @@ This Challenge will ask you to combine several new skills that you’ve learned 
 ## Mock-Up
 The following image shows the web application's appearance and functionality:
 
-![Mock-Up Image One](./public/assets/images/mock-up-image-one.png?raw=true "Mock-Up Image One")
+![Mock-Up Image One](./public/images/mock-up-image-one.png?raw=true "Mock-Up Image One")
 
 ## Getting Started
 Review the following lessons to complete this challenge.
