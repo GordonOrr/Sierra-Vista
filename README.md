@@ -30,6 +30,7 @@ This Challenge will ask you to combine several new skills that you’ve learned 
 ## Mock-Up
 The following image shows the web application's appearance and functionality:
 
+
 ![Mock-Up Image One](./develop/public/images/mock-up-image-one.png?raw=true "Mock-Up Image One")
 
 ## Getting Started
